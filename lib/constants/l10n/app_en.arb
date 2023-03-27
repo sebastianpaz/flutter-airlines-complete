@@ -1,0 +1,15 @@
+{
+    "home": "Home",
+    "profile" : "Profile",
+    "welcomeMessage": "Welcome to the Flutter Template!",
+    "profileTitle": "Profile Screen",
+    "logout": "Logout",
+    "loginTitle": "Flutter Template",
+    "email": "Email",
+    "emailPlaceholder": "Write your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Write your password",
+    "login": "Log in",
+    "loginError": "The entered credentials are incorrect",
+    "emptyFieldsError": "Please write an email and a password"
+}
