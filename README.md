@@ -17,3 +17,8 @@ Código fuente completo y listo para usar (y modificar) del proyecto visto en el
  - Uso del widget `ListView` para renderizar colecciones.
   
 Este proyecto utiliza el template de la forma en la que lo usaríamos en una aplicación de producción en Moove It.
+
+## Video
+
+[![Demo CountPages alpha](.github/video.gif)](.github/video.mp4)
+
